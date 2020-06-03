@@ -1,4 +1,8 @@
 // 메인페이지 spa 싱글페이지 어플리케이션
+
+//https://nextus.tistory.com/20?category=802228 react Express mysql 연동
+
+//https://ko.reactjs.org/tutorial/tutorial.html 계속 이해할때까지 반복숙달하기
 import React, { Component } from 'react'; // 리액트 라이프러리
 import './reset.css'; // 초기 css
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'; // 라우터 라이브러리
